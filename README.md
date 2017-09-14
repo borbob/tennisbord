@@ -7,8 +7,8 @@ Door middel van kantelsensoren zullen we het scorebord digitaliseren en via LoRa
 ![alt text](tennisbord.jpeg)
 
 In dit project gebruiken we:
-- Things Network Uno
-- Tilt sensoren (SW-520D)
-- kabels
-- batterij
+- 1 [The Things Uno bord] (https://shop.thethingsnetwork.com/index.php/product/the-things-uno/).
+- 14 tilt sensoren (SW-520D)
+- veel kabels
+- 1 batterij
 - waterdicht makend spul
